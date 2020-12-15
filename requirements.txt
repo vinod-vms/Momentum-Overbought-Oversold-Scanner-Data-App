@@ -1,0 +1,4 @@
+streamlit==0.72.0
+yfinance==0.1.55
+mplfinance==0.12.7a0
+ta==0.7.0
