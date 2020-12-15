@@ -18,7 +18,7 @@ This app is hosted on Heroku: https://stockscanner.herokuapp.com
 ### License
 You are free to modify or redistribute the code.
 
-However, an attribution is nice
+However, an attribution is nice.
 
 &copy; Vinod Mathew Sebastian
 
