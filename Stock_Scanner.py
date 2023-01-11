@@ -1,6 +1,6 @@
 import streamlit as st
 import yfinance as yf
-from dataset_nse50 import nse50
+from dataset import nse50
 from datetime import datetime
 from datetime import timedelta
 import mplfinance as mpf

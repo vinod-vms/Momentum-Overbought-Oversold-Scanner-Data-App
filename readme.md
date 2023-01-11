@@ -13,7 +13,7 @@ Run `streamlit run Stock_Scanner.py`
 You should have Python 3.6 or above installed on your system.
 
 ### Hosting
-This app is hosted on Heroku: https://stockscanner.herokuapp.com
+This app is hosted on Render: https://stockscanner-kn9o.onrender.com/
 
 ### License
 You are free to modify or redistribute the code.
